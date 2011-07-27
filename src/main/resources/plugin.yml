@@ -1,0 +1,9 @@
+author: KingRat
+database: false
+description: Create a huge, flat world in a block of your choice!
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: me.kingrat.plugins.hugetractsofland.Hugetractsofland
+name: HugeTractsOfLand
+startup: startup
+url: http://www.infected-gaming.co.uk/
+version: '1.0'
